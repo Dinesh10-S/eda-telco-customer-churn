@@ -57,3 +57,14 @@ and evaluates its performance.
 ## Limitations
 The model achieved 49.82% recall for the churn class, so further
 improvement is required to identify more customers who leave.
+
+
+
+## Dataset Source
+
+Dataset: Telco Customer Churn
+
+Download the dataset from [Kaggle - Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
+
+The dataset contains customer information, subscribed services, contract details, billing information, and the churn target variable.
+
