@@ -1,0 +1,15 @@
+
+Dataset Name: Telco Customer Churn
+
+Source:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+Dataset Description:
+The dataset contains customer demographic information, subscribed
+telecommunication services, contract details, billing information,
+and the Churn target variable.
+
+Download Instructions:
+Open the dataset link above and download the CSV file.
+The project notebook uses this dataset for EDA, visualization,
+and Deep Learning model development.
